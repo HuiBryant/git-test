@@ -5,3 +5,4 @@ hello 4!
 master test!
 hot-fix test!
 pull option test!
+pull option test2!
